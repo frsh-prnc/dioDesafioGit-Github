@@ -15,4 +15,5 @@ Repositório criado para o Desafio de Projeto.
 
 ### Módulo 2
 
-- Introdução ao Kotlin (em andamento)
+- Introdução ao Kotlin
+- Fundamentos de Orientação a Objetos com Kotlin (em andamento)
