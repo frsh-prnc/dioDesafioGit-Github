@@ -12,3 +12,7 @@ Repositório criado para o Desafio de Projeto.
 
 - Introdução à Programação e Pensamento Computacional
 - Introdução ao Git e ao Github
+
+### Módulo 2
+
+- Introdução ao Kotlin (em andamento)
