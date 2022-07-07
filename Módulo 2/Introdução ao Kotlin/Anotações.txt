@@ -1,3 +1,5 @@
 EM ANDAMENTO...
 
+Link doKotlin Playground: https://play.kotlinlang.org/
+
 "ANDROID É KOTLIN FIRST!"
