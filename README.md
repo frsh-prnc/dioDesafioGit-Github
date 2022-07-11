@@ -16,4 +16,5 @@ Repositório criado para o Desafio de Projeto.
 ### Módulo 2
 
 - Introdução ao Kotlin
-- Fundamentos de Orientação a Objetos com Kotlin (em andamento)
+- Fundamentos de Orientação a Objetos com Kotlin
+- Aplicando Conceitos de Coleções, Arrays e Listas (em andamento)
